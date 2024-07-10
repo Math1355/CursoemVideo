@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "192ea16f9ae383a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd47f1602db73398",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37d20071ed6188e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aulas/Aula 14 - Repetições em Python (while).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "154c23651d78a6ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "82fcfa8516010696",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60e3123abf388bda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8bca108398da9a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28e1c178ec807bac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "03a39b37fed487c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3c289e2602d4b96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16eec4f2f13a8c1e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aulas/Aula 14 - Repetições em Python (while).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "703d996d1de02e3d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aulas/Aula 14 - Repetições em Python (while).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4de59ab6eb4dc4c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "19b9ad0a6842c48e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aulas/Aula 14 - Repetições em Python (while).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "37d20071ed6188e6",
+  "lastOpenFiles": [
+    "ExerciciosAula/Aula14/Aula14ex003.py",
+    "ExerciciosAula/Aula14/Aula14ex002.py",
+    "ExerciciosAula/Aula14/Aula14ex001.py",
+    "Aulas/Aula 13 - Estrutura de repetição (for).md",
+    "Aulas/Aula 14 - Repetições em Python (while).md",
+    "TesteAula/Aula14.py",
+    "Aulas/Aula 9 - Manipulando Texto.md",
+    "Aulas/Aula 4 - Primeiros comandos em python3.md",
+    "Aulas/Aula 6 - Tipos Primitivos e Saída de Dados.md",
+    "Aulas/Aula 8 - Utilizando Módulos.md",
+    "Aulas/Aula 10 - Condições (Parte 1).md",
+    "Aulas/Aula 11 - Cores no Terminal.md",
+    "Aulas/Aula 12 - Condições Aninhadas.md",
+    "ExerciciosAula/Aula14",
+    "Aulas/Aula 7 - Operadores Aritméticos.md",
+    "ExerciciosAula/Aula13/Aula13ex011.py",
+    "ExerciciosAula/Aula13/Aula13ex010.py",
+    "ExerciciosAula/Aula13/Aula13ex009.py",
+    "cursoemvideoenv/Lib/site-packages/pygame/_common.pyi",
+    "cursoemvideoenv/Lib/site-packages/pygame/mixer_music.pyi",
+    "cursoemvideoenv/Lib/site-packages/pygame/mixer.pyi",
+    "Script Python/Script Primeiros comandos.md",
+    "cursoemvideoenv/Lib/site-packages/pygame/tests/fixtures/fonts/A_PyGameMono-8.png",
+    "cursoemvideoenv/Lib/site-packages/pygame/tests/fixtures/fonts/u13079_PyGameMono-8.png",
+    "cursoemvideoenv/Lib/site-packages/pygame/examples/data/alien1.gif",
+    "cursoemvideoenv/Lib/site-packages/pygame/examples/data/teal.svg",
+    "cursoemvideoenv/Lib/site-packages/pygame/examples/data/static.png",
+    "cursoemvideoenv/Lib/site-packages/pygame/examples/data/shot.gif",
+    "cursoemvideoenv/Lib/site-packages/pygame/examples/data/scarlet.webp",
+    "cursoemvideoenv/Lib/site-packages/pygame/examples/data/red.jpg",
+    "cursoemvideoenv/Lib/site-packages/pygame/examples/data/player1.gif",
+    "cursoemvideoenv/Lib/site-packages/pygame/examples/data/midikeys.png",
+    "Exercicios/Exercicios01.md",
+    "ExerciciosAula/Aula4/Exercicios/Exercicios01.md"
+  ]
+}
