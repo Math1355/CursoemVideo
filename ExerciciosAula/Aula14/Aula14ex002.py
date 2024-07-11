@@ -1,7 +1,7 @@
 from random import randint
 from time import sleep
 
-computador = randint(0, 10)
+computador = randint(1, 10)
 print('-=-' * 20)
 print('Digite qual numero entre 0 e 5. Tente adivinhar... ')
 print('-=-' * 20)

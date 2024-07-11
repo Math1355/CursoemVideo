@@ -48,11 +48,11 @@ Crie um programa que leia dois valores e mostre um menu na tela:
 [5]sair do programa
 ```
 Seu programa deverá realizar a operação solicitada em cada caso
-R:
+R: Aula14ex003.py
 
 Faça um programa que leia um número qualquer e mostre o seu fatorial
 Ex: 5! = 5x4x3x2x1 = 120
-R:
+R: Aula14ex004.py
 
 Refaça o DESAFIO 051, lendo o primeiro termo e a razão de uma PA, mostrando os 10 primeiros termos da progressão usando a estrutura while
 R:
