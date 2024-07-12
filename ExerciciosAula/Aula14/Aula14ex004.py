@@ -1,5 +1,3 @@
-
-
 valor = int(input('INSIRA O VALOR: '))
 resultado = 0
 
