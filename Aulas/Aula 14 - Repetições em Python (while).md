@@ -62,10 +62,10 @@ R: Aula14ex006.py
 
 Escreva um programa que leia um numero n inteiro qualquer e mostre na tela os n primeiros elementos de um Sequência de Fubonacci.
 Ex: 0 -> 1 -> 1 -> 2 -> 3 -> 5 ->8
-R:
+R: Aula14ex007.py
 
 Crie um programa que leia vários números inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor 999, que e a condição de parada. No final mostre quantos números foram digitados e qual foi a soma entre eles (desconsiderando a flag)
-R:
+R: Aula14ex008.py
 
 Crie um programa que leia vários números inteiros pelo teclado. No final da execução, mostre a média entre todos os valores e qual foi o maior e menor valor lidos. O programa deve perguntar ao usuário se ele quer ou não continuar a digitar valores
-R:
+R: Aula14ex009.py
