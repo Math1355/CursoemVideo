@@ -5,16 +5,19 @@ print('=' * 30)
 print('     10 TERMOS DE UMA P.A   ')
 print('=' * 30)
 
-escolha = 10
 termo = int(input('Primeiro termo: '))
 razao = int(input('Razão: '))
-decimo = termo + (escolha - 1) * razao
+cont = 1
+total = 0
+escolha = 10
 
-while termo <= decimo:
-    print('{} '.format(termo), end="-> ")
-    termo += razao
-    if termo == decimo:
-        escolha = int(input('\nGostaria de ver mais quantos termos? [0 - SAIR]: '))
-        decimo = termo + (escolha - 1) * razao
+while escolha != 0:
+    total = total + escolha
+    while cont <= total:
+        print('{} '.format(termo), end="-> ")
+        termo += razao
+        cont += 1
+    print('PAUSA')
+    escolha = int(input('Gostaria de ver mais quantos termos? [0 - SAIR]: '))
 
-print('ACABOU')
+print('Progresão finalizada com {} termos mostrados.'.format(total))

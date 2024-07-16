@@ -3,20 +3,25 @@ from time import sleep
 
 computador = randint(1, 10)
 print('-=-' * 20)
-print('Digite qual numero entre 0 e 5. Tente adivinhar... ')
+print('Digite qual numero entre 0 e 10. Tente adivinhar... ')
 print('-=-' * 20)
 
-chute = 11
+acertou = False
 palpites = 0
 
-while chute != computador:
+while not acertou:
     chute = int(input('Qual numero eu pensei? '))
     print('PROCESSANDO...')
     sleep(2)
+    palpites += 1
     if chute == computador:
         print('Você acertou!')
+        acertou = True
     else:
-        print('Você errou! tente novamente!')
-        palpites += 1
+        if chute < computador:
+            print('Mais... Tente novamente!')
+        else:
+            print('Menos... Tente novamente!')
+        
 
-print('VOCÊ ERROU {} VEZES!'.format(palpites))
+print('VOCÊ ACERTOU COM {} TENTATIVAS, PARABENS!'.format(palpites))

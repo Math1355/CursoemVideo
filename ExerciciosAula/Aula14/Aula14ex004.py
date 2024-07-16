@@ -1,16 +1,18 @@
+'''from math import factorial
+n = int(input('INSIRA O VALOR: '))
+f = factorial(n)
+print('O fatorial de {} e {}.'.format(n, f))'''
+
 valor = int(input('INSIRA O VALOR: '))
-resultado = 0
+contador = valor
+fatorial = 1
 
-print('O fatorial de {} e: '.format(valor))
-
-while valor != 1:
-    segundo_valor = valor - 1
-    if resultado == 0:
-        resultado = valor * segundo_valor 
-        valor -= 2
-    else:
-        resultado = resultado * valor
-        valor -= 1    
+print('Calculando {}! = '.format(valor), end='')
+while contador > 0:
+    print('{}'.format(contador), end= '')
+    print(' x ' if contador > 1 else ' = ', end='')
+    fatorial *= contador
+    contador -= 1
     
-
-print(resultado)
+#print('O fatorial de {} e: '.format(valor))
+print(fatorial)

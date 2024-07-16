@@ -4,11 +4,12 @@ print('=' * 30)
 
 termo = int(input('Primeiro termo: '))
 razao = int(input('Razão: '))
-decimo = termo + (10 - 1) * razao
+cont = 1
 
 
-while termo <= decimo:
+while cont <= 10:
     print('{} '.format(termo), end="-> ")
     termo += razao
+    cont += 1
 
 print('ACABOU')
