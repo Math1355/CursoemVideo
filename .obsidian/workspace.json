@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aulas/Aula 14 - Repetições em Python (while).md",
+                "file": "Aulas/Aula 15 – Interrompendo repetições while.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aulas/Aula 14 - Repetições em Python (while).md",
+                "file": "Aulas/Aula 15 – Interrompendo repetições while.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aulas/Aula 14 - Repetições em Python (while).md",
+                "file": "Aulas/Aula 15 – Interrompendo repetições while.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aulas/Aula 14 - Repetições em Python (while).md"
+                "file": "Aulas/Aula 15 – Interrompendo repetições while.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "37d20071ed6188e6",
   "lastOpenFiles": [
+    "Aulas/Aula 14 - Repetições em Python (while).md",
+    "Aulas/Aula 15 – Interrompendo repetições while.md",
+    "TesteAula/Aula15.py",
     "Aulas/Aula 7 - Operadores Aritméticos.md",
     "Aulas/Aula 6 - Tipos Primitivos e Saída de Dados.md",
     "Aulas/Aula 4 - Primeiros comandos em python3.md",
-    "Aulas/Aula 14 - Repetições em Python (while).md",
     "ExerciciosAula/Aula14/Aula14ex009.py",
     "ExerciciosAula/Aula14/Aula14ex008.py",
     "ExerciciosAula/Aula14/Aula14ex007.py",
@@ -167,7 +169,6 @@
     "Aulas/Aula 10 - Condições (Parte 1).md",
     "Aulas/Aula 11 - Cores no Terminal.md",
     "Aulas/Aula 12 - Condições Aninhadas.md",
-    "ExerciciosAula/Aula14",
     "Script Python/Script Primeiros comandos.md",
     "cursoemvideoenv/Lib/site-packages/pygame/tests/fixtures/fonts/A_PyGameMono-8.png",
     "cursoemvideoenv/Lib/site-packages/pygame/tests/fixtures/fonts/u13079_PyGameMono-8.png",
