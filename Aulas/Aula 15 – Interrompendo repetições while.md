@@ -41,14 +41,14 @@ Crie um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cad
 A) Quantas pessoas tem mais de 18 anos.
 B) Quantos homens foram cadastrados 
 C) Quantas mulheres tem menos de 20 anos
-R:
+R: Aula15ex004.py
 
 Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar. No final, mostre:
 A) Qual é o total gasto na compra
 B) Quantos produtos custam mais de R$ 1000
 C) Qual é o nome do produto mais barato.
-R:
+R: Aula15ex005.py
 
 Crie um programa que simule o funcionamento de um caixa eletrônico. No inicio, pergunte ao usuário qual será o valor a ser sacado (número inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues.
 OBS: Considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1
-R:
+R: Aula15ex006.py
