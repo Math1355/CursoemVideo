@@ -12,11 +12,11 @@ print('-=-' * 20)
 qt = 0
 
 while True:
-    computador = randint (1, 10)
+    computador = randint (0, 10)
     valor = int(input('DIGITE UM VALOR: '))
 
     while True:
-        escolha = str(input('PAR OU IMPAR: ')).upper().strip()[0]
+        escolha = str(input('PAR OU IMPAR: [P/I]')).upper().strip()[0]
         if escolha == 'P'  :
             escolha_comp = 'I'
             break
@@ -27,6 +27,8 @@ while True:
     soma = computador + valor
 
     sleep(2)
+
+    #print('DEU PAR' if soma % 2 == 0 else 'DEU IMPAR')
 
     if soma % 2 == 0:
         if escolha == 'P':

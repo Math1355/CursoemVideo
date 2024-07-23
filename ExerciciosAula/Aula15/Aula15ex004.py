@@ -18,7 +18,7 @@ while True:
         if sexo in 'MmFf':
             break
 
-    if idade > 18:
+    if idade >= 18:
         maior_idade += 1
 
     if sexo in 'Mm':

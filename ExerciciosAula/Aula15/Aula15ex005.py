@@ -5,20 +5,15 @@ A) Qual é o total gasto na compra
 B) Quantos produtos custam mais de R$ 1000
 C) Qual é o nome do produto mais barato.'''
 
-total = 0
-qt_caro = 0
+total = qt_caro = 0
 
 while True:
     produto = str(input('INSIRA O NOME DO PRODUTO: '))
     preco = float(input('INSIRA O PREÇO DO PRODUTO: '))
 
-    if total == 0:
+    if total == 0 or preco < valor_barato:
         valor_barato = preco
         produto_barato = produto
-    else:
-        if preco < valor_barato:
-            valor_barato = preco
-            produto_barato = produto    
 
     total += preco
 
