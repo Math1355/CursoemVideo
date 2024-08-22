@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aulas/Aula 15 – Interrompendo repetições while.md",
+                "file": "Aulas/Aula 16 – Variáveis Compostas (Tuplas).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aulas/Aula 15 – Interrompendo repetições while.md",
+                "file": "Aulas/Aula 16 – Variáveis Compostas (Tuplas).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aulas/Aula 15 – Interrompendo repetições while.md",
+                "file": "Aulas/Aula 16 – Variáveis Compostas (Tuplas).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aulas/Aula 15 – Interrompendo repetições while.md"
+                "file": "Aulas/Aula 16 – Variáveis Compostas (Tuplas).md"
               }
             }
           }
@@ -146,12 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37d20071ed6188e6",
+  "active": "60e3123abf388bda",
   "lastOpenFiles": [
+    "Imagens/Pasted image 20240822165219.png",
+    "Imagens/Pasted image 20240822165027.png",
+    "Aulas/Aula 15 – Interrompendo repetições while.md",
+    "Aulas/Aula 16 – Variáveis Compostas (Tuplas).md",
+    "TesteAula/Aula16.py",
     "Aulas/Aula 7 - Operadores Aritméticos.md",
     "Aulas/Aula 8 - Utilizando Módulos.md",
     "Aulas/Aula 14 - Repetições em Python (while).md",
-    "Aulas/Aula 15 – Interrompendo repetições while.md",
     "Aulas/Aula 6 - Tipos Primitivos e Saída de Dados.md",
     "ExerciciosAula/Aula15/Aula15ex003.py",
     "ExerciciosAula/Aula15/Aula15ex002.py",
@@ -163,7 +167,6 @@
     "ExerciciosAula/Aula14/Aula14ex007.py",
     "ExerciciosAula/Aula14/Aula14ex006.py",
     "ExerciciosAula/Aula14/Aula14ex004.py",
-    "ExerciciosAula/Aula14/Aula14ex003.py",
     "Aulas/Aula 13 - Estrutura de repetição (for).md",
     "Aulas/Aula 9 - Manipulando Texto.md",
     "Aulas/Aula 10 - Condições (Parte 1).md",
@@ -179,7 +182,6 @@
     "cursoemvideoenv/Lib/site-packages/pygame/examples/data/scarlet.webp",
     "cursoemvideoenv/Lib/site-packages/pygame/examples/data/red.jpg",
     "cursoemvideoenv/Lib/site-packages/pygame/examples/data/player1.gif",
-    "cursoemvideoenv/Lib/site-packages/pygame/examples/data/midikeys.png",
     "Exercicios/Exercicios01.md",
     "ExerciciosAula/Aula4/Exercicios/Exercicios01.md"
   ]
