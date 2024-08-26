@@ -27,11 +27,11 @@ A) Apenas os 5 primeiros colocados.
 B) Os últimos 4 colocados da tabela.
 C) Uma lista com os times em ordem alfabética.
 D) Em que posição na tabela está o time da Chapecoense.
-R:
+R: Aula16ex002.py
 
 Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla.
 Depois disso, mostre a listagem de números gerados e tambem indique o menor e o maior valor que estão na tupla.
-R:
+R: Aula16ex003.py
 
 Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla. No final, mostre:
 A) Quantas vezes apareceu o valor 9
