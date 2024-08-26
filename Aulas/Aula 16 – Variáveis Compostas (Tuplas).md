@@ -20,7 +20,7 @@ DESAFIOS AULA 16
 
 Crie um programa que tenha uma tupla totalmente preenchida com uma contagem por extenso, de zero ate vinte.
 Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso
-R:
+R: Aula16ex001.py
 
 Crie uma tupla preenchida com os 20 primeiros colocados da tabela do Campeonato Brasileiro de Futebol, na ordem de colocação. Depois mostre:
 A) Apenas os 5 primeiros colocados.
