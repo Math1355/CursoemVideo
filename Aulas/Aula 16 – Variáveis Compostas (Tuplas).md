@@ -37,7 +37,7 @@ Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma t
 A) Quantas vezes apareceu o valor 9
 B) Em que posição foi digitado o primeiro valor 3
 C) Quais foram os números pares
-R:
+R: Aula16ex004.py
 
 Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços na sequência.
 No final, mostre uma listagem de preços organizando os dados em forma tabular
