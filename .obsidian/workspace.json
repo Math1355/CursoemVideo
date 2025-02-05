@@ -16,7 +16,9 @@
                 "file": "Aulas/Aula 16 – Variáveis Compostas (Tuplas).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Aula 16 – Variáveis Compostas (Tuplas)"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aulas/Aula 16 – Variáveis Compostas (Tuplas).md",
+                "file": "Aulas/Aula 6 - Tipos Primitivos e Saída de Dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Aula 6 - Tipos Primitivos e Saída de Dados"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aulas/Aula 16 – Variáveis Compostas (Tuplas).md",
+                "file": "Aulas/Aula 6 - Tipos Primitivos e Saída de Dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Aula 6 - Tipos Primitivos e Saída de Dados"
             }
           },
           {
@@ -116,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aulas/Aula 16 – Variáveis Compostas (Tuplas).md"
-              }
+                "file": "Aulas/Aula 6 - Tipos Primitivos e Saída de Dados.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Aula 6 - Tipos Primitivos e Saída de Dados"
             }
           }
         ]
@@ -148,10 +165,13 @@
   },
   "active": "37d20071ed6188e6",
   "lastOpenFiles": [
-    "Aulas/Aula 9 - Manipulando Texto.md",
     "Aulas/Aula 6 - Tipos Primitivos e Saída de Dados.md",
-    "Aulas/Aula 4 - Primeiros comandos em python3.md",
     "Aulas/Aula 16 – Variáveis Compostas (Tuplas).md",
+    "Aulas/Aula 12 - Condições Aninhadas.md",
+    "Aulas/Aula 9 - Manipulando Texto.md",
+    "Aulas/Aula 8 - Utilizando Módulos.md",
+    "Aulas/Aula 7 - Operadores Aritméticos.md",
+    "Aulas/Aula 4 - Primeiros comandos em python3.md",
     "ExerciciosAula/Aula16/Aula16ex003.py",
     "ExerciciosAula/Aula16/Aula16ex002.py",
     "ExerciciosAula/Aula16/Aula16ex001.py",
@@ -159,8 +179,6 @@
     "Imagens/Pasted image 20240822165027.png",
     "Aulas/Aula 15 – Interrompendo repetições while.md",
     "TesteAula/Aula16.py",
-    "Aulas/Aula 7 - Operadores Aritméticos.md",
-    "Aulas/Aula 8 - Utilizando Módulos.md",
     "Aulas/Aula 14 - Repetições em Python (while).md",
     "ExerciciosAula/Aula15/Aula15ex003.py",
     "ExerciciosAula/Aula15/Aula15ex002.py",
@@ -171,7 +189,6 @@
     "Aulas/Aula 13 - Estrutura de repetição (for).md",
     "Aulas/Aula 10 - Condições (Parte 1).md",
     "Aulas/Aula 11 - Cores no Terminal.md",
-    "Aulas/Aula 12 - Condições Aninhadas.md",
     "Script Python/Script Primeiros comandos.md",
     "cursoemvideoenv/Lib/site-packages/pygame/tests/fixtures/fonts/A_PyGameMono-8.png",
     "cursoemvideoenv/Lib/site-packages/pygame/tests/fixtures/fonts/u13079_PyGameMono-8.png",
