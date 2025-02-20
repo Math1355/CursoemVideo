@@ -43,7 +43,7 @@ Crie um programa que tenha uma tupla única com nomes de produtos e seus respect
 No final, mostre uma listagem de preços organizando os dados em forma tabular
 Resultado final tem que esta assim:
 ![[Pasted image 20240822165027.png]]
-R:
+R: Aula16ex005.py
 
 Crie um programa que tenha uma tupla com várias palavras(não usar acentos). Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais, exemplo:
 ![[Pasted image 20240822165219.png]]

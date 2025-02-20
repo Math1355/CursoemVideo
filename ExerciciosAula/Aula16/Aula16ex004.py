@@ -23,12 +23,16 @@ for cont in range(0, len(valores)):
         posicao = valores.index(3) + 1
 
 print(f'Você digitou os valores {valores}')
-print(f'O valor 9 apareceu {qt_valor} vezes')
+
+if qt_valor == 1:
+    print(f'O valor 9 apareceu {qt_valor} vez.')
+else:
+    print(f'O valor 9 apareceu {qt_valor} vezes.')
 
 if posicao != 0:
-    print(f'O valor 3 apareceu pela primeira vez na {posicao}º posição')
+    print(f'O valor 3 apareceu pela primeira vez na {posicao}º posição.')
 else:
-    print(f'O valor 3 não foi digitado em nenhuma posição')
+    print(f'O valor 3 não foi digitado em nenhuma posição.')
 
 
 for valor in valores:
@@ -39,7 +43,7 @@ qt_valores_pares = len(valores_pares) - 1
 
 
 if len(valores_pares) != 0:
-    print(f'Os valores pares digitados foram', end=' ')
+    print(f'Os valores pares digitados:', end=' ')
     
     for valor in valores_pares:
         if valor != valores_pares[qt_valores_pares]:
