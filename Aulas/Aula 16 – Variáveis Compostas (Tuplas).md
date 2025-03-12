@@ -47,4 +47,4 @@ R: Aula16ex005.py
 
 Crie um programa que tenha uma tupla com várias palavras(não usar acentos). Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais, exemplo:
 ![[Pasted image 20240822165219.png]]
-R:
+R:Aula16ex006.py

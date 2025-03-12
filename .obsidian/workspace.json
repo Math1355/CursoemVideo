@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aulas/Aula 16 – Variáveis Compostas (Tuplas).md",
+                "file": "Aulas/Aula 9 - Manipulando Texto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 16 – Variáveis Compostas (Tuplas)"
+              "title": "Aula 9 - Manipulando Texto"
             }
           }
         ]
@@ -165,15 +165,15 @@
   },
   "active": "37d20071ed6188e6",
   "lastOpenFiles": [
-    "Aulas/Aula 9 - Manipulando Texto.md",
+    "Aulas/Aula 6 - Tipos Primitivos e Saída de Dados.md",
+    "Aulas/Aula 4 - Primeiros comandos em python3.md",
     "Aulas/Aula 16 – Variáveis Compostas (Tuplas).md",
+    "Aulas/Aula 9 - Manipulando Texto.md",
     "Aulas/Aula 12 - Condições Aninhadas.md",
     "Aulas/Aula 10 - Condições (Parte 1).md",
     "Aulas/Aula 11 - Cores no Terminal.md",
     "Aulas/Aula 8 - Utilizando Módulos.md",
     "Aulas/Aula 7 - Operadores Aritméticos.md",
-    "Aulas/Aula 6 - Tipos Primitivos e Saída de Dados.md",
-    "Aulas/Aula 4 - Primeiros comandos em python3.md",
     "ExerciciosAula/Aula16/Aula16ex003.py",
     "ExerciciosAula/Aula16/Aula16ex002.py",
     "ExerciciosAula/Aula16/Aula16ex001.py",
