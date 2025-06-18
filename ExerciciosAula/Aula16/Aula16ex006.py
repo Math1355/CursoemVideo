@@ -8,7 +8,9 @@ palavras = ("aprender", "programar", "linguagem", "python"
             , "curso", "gratis", "estudar", "praticar"
             , "trabalhar", "mercado", "programador", "futuro")
 
-vogais = ["a", "e", "i", "o", "u"]
+#vogais = ("a", "e", "i", "o", "u")
+
+vogais = 'aeiou'
 
 for palavra in palavras:
     print(f"\nNa palavra {palavra.upper()} temos ", end= "")
