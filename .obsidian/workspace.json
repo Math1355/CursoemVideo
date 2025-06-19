@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aulas/Aula 16 – Variáveis Compostas (Tuplas).md",
+                "file": "Aulas/Aula 17 – Listas (Parte 1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 16 – Variáveis Compostas (Tuplas)"
+              "title": "Aula 17 – Listas (Parte 1)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 308.5
   },
   "right": {
     "id": "03a39b37fed487c8",
@@ -165,10 +165,19 @@
   },
   "active": "37d20071ed6188e6",
   "lastOpenFiles": [
+    "ExerciciosAula/Aula17/Aula17ex006.py",
+    "ExerciciosAula/Aula17/Aula17ex005.py",
+    "ExerciciosAula/Aula17/Aula17ex004.py",
+    "ExerciciosAula/Aula17/Aula17ex003.py",
+    "ExerciciosAula/Aula17/Aula17ex002.py",
+    "ExerciciosAula/Aula17/Aula17ex001.py",
+    "Aulas/Aula 16 – Variáveis Compostas (Tuplas).md",
+    "Aulas/Aula 17 – Listas (Parte 1).md",
+    "TesteAula/Aula17.py",
+    "ExerciciosAula/Aula17",
     "Aulas/Aula 9 - Manipulando Texto.md",
     "Aulas/Aula 6 - Tipos Primitivos e Saída de Dados.md",
     "Aulas/Aula 4 - Primeiros comandos em python3.md",
-    "Aulas/Aula 16 – Variáveis Compostas (Tuplas).md",
     "Aulas/Aula 12 - Condições Aninhadas.md",
     "Aulas/Aula 10 - Condições (Parte 1).md",
     "Aulas/Aula 11 - Cores no Terminal.md",
@@ -180,14 +189,7 @@
     "Imagens/Pasted image 20240822165219.png",
     "Imagens/Pasted image 20240822165027.png",
     "Aulas/Aula 15 – Interrompendo repetições while.md",
-    "TesteAula/Aula16.py",
     "Aulas/Aula 14 - Repetições em Python (while).md",
-    "ExerciciosAula/Aula15/Aula15ex003.py",
-    "ExerciciosAula/Aula15/Aula15ex002.py",
-    "ExerciciosAula/Aula15/Aula15ex001.py",
-    "TesteAula/Aula15.py",
-    "ExerciciosAula/Aula14/Aula14ex009.py",
-    "ExerciciosAula/Aula14/Aula14ex008.py",
     "Aulas/Aula 13 - Estrutura de repetição (for).md",
     "Script Python/Script Primeiros comandos.md",
     "cursoemvideoenv/Lib/site-packages/pygame/tests/fixtures/fonts/A_PyGameMono-8.png",
