@@ -17,5 +17,5 @@ while True:
 
     novamente = str(input("Deseja continuar: [S/N] "))
 
-    if novamente[0].upper() ==  "N":
+    if novamente[0].upper() == "N":
             break
