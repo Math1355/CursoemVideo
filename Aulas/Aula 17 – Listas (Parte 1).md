@@ -46,25 +46,25 @@ R: Aula17ex001.py
 
 Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista. Caso o número já exista lá dentro, ele não será adicionado.
 No final, serão exibidos todos os valores únicos digitados, em ordem crescente.
-R:
+R: Aula17ex002.py
 
 Crie um programa onde o usuário possa digitar cinco valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (sem usar o sort()).
-R:
+R: Aula17ex003.py
 
 Crie um programa que vai ler vários números e colocar em uma lista.
 Depois disso, mostre:
 A)Quantos números foram digitados.
 B) A lista de valores, ordenada de forma decrescente.
 C)Se o valor 5 foi digitado e está ou não na lista.
-R:
+R: Aula17ex004.py
 
 Crie um programa que vai ler vários números e colocar em uma lista.
 Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores impares digitados respectivamente.
 Ao final, mostre o conteúdo das três listas geradas.
-R:
+R: Aula17ex005.py
 
 Crie um programa onde o usuário digite uma expressão qualquer que use parênteses. Seu aplicativo deverá analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta.
-R:
+R: Aula17ex006.py
 
 
 
