@@ -11,12 +11,14 @@ for char in expressao:
     if char == '(':
         pilha.append(char)
     elif char == ')':
-        if not pilha:
-            print('Expressão inválida: parênteses fechados sem correspondência.')
+        if len(pilha) > 0:
+            pilha.pop()
+        else:
+            pilha.append(char)
             break
-        pilha.pop()
+
+
+if len(pilha) == 0:
+    print('Expressão válida: parênteses estão corretamente abertos e fechados.')
 else:
-    if not pilha:
-        print('Expressão válida: parênteses estão corretamente abertos e fechados.')
-    else:
-        print('Expressão inválida: parênteses abertos sem correspondência.')
+    print('Expressão inválida: parênteses abertos sem correspondência.')

@@ -30,6 +30,7 @@ for n in lista:
     else:
         impares.append(n)
 
+print("=-=" * 15)
 print(f'Lista completa: {lista}')
 print(f'Números pares: {pares}')
 print(f'Números ímpares: {impares}')
