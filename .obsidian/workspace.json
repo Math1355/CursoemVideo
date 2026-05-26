@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aulas/Aula 17 – Listas (Parte 1).md",
+                "file": "Aulas/Aula 18 - Lista (Parte 2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 17 – Listas (Parte 1)"
+              "title": "Aula 18 - Lista (Parte 2)"
             }
           }
         ]
@@ -155,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -163,8 +164,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37d20071ed6188e6",
+  "active": "60e3123abf388bda",
   "lastOpenFiles": [
+    "Imagens/Pasted image 20260525232149.png",
+    "Imagens/Pasted image 20260525232130.png",
+    "Imagens/Pasted image 20260525231814.png",
+    "Imagens/Pasted image 20260525231504.png",
+    "Imagens/Pasted image 20260525231256.png",
+    "Imagens/Pasted image 20260525230957.png",
+    "Imagens/Pasted image 20260525230731.png",
+    "Aulas/Aula 17 – Listas (Parte 1).md",
+    "Aulas/Aula 18 - Lista (Parte 2).md",
+    "TesteAula/Aula18.py",
+    "Imagens/Pasted image 20260525224648.png",
+    "Imagens/Pasted image 20260525224559.png",
     "ExerciciosAula/Aula17/Aula17ex006.py",
     "ExerciciosAula/Aula17/Aula17ex005.py",
     "ExerciciosAula/Aula17/Aula17ex004.py",
@@ -172,7 +185,6 @@
     "ExerciciosAula/Aula17/Aula17ex002.py",
     "ExerciciosAula/Aula17/Aula17ex001.py",
     "Aulas/Aula 16 – Variáveis Compostas (Tuplas).md",
-    "Aulas/Aula 17 – Listas (Parte 1).md",
     "TesteAula/Aula17.py",
     "ExerciciosAula/Aula17",
     "Aulas/Aula 9 - Manipulando Texto.md",
@@ -184,22 +196,12 @@
     "Aulas/Aula 8 - Utilizando Módulos.md",
     "Aulas/Aula 7 - Operadores Aritméticos.md",
     "ExerciciosAula/Aula16/Aula16ex003.py",
-    "ExerciciosAula/Aula16/Aula16ex002.py",
-    "ExerciciosAula/Aula16/Aula16ex001.py",
     "Imagens/Pasted image 20240822165219.png",
     "Imagens/Pasted image 20240822165027.png",
     "Aulas/Aula 15 – Interrompendo repetições while.md",
     "Aulas/Aula 14 - Repetições em Python (while).md",
     "Aulas/Aula 13 - Estrutura de repetição (for).md",
     "Script Python/Script Primeiros comandos.md",
-    "cursoemvideoenv/Lib/site-packages/pygame/tests/fixtures/fonts/A_PyGameMono-8.png",
-    "cursoemvideoenv/Lib/site-packages/pygame/tests/fixtures/fonts/u13079_PyGameMono-8.png",
-    "cursoemvideoenv/Lib/site-packages/pygame/examples/data/alien1.gif",
-    "cursoemvideoenv/Lib/site-packages/pygame/examples/data/teal.svg",
-    "cursoemvideoenv/Lib/site-packages/pygame/examples/data/static.png",
-    "cursoemvideoenv/Lib/site-packages/pygame/examples/data/shot.gif",
-    "cursoemvideoenv/Lib/site-packages/pygame/examples/data/scarlet.webp",
-    "cursoemvideoenv/Lib/site-packages/pygame/examples/data/red.jpg",
     "Exercicios/Exercicios01.md",
     "ExerciciosAula/Aula4/Exercicios/Exercicios01.md"
   ]
