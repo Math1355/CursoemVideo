@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aulas/Aula 18 - Lista (Parte 2).md",
+                "file": "Aulas/Aula 19 - Dicionários.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 18 - Lista (Parte 2)"
+              "title": "Aula 19 - Dicionários"
             }
           }
         ]
@@ -166,18 +166,22 @@
   },
   "active": "60e3123abf388bda",
   "lastOpenFiles": [
+    "Imagens/Pasted image 20260604130347.png",
+    "Imagens/Pasted image 20260604130328.png",
+    "Imagens/Pasted image 20260604130116.png",
+    "Imagens/Pasted image 20260604125803.png",
+    "Imagens/Pasted image 20260604125508.png",
+    "Imagens/Pasted image 20260604125057.png",
+    "Aulas/Aula 18 - Lista (Parte 2).md",
+    "Aulas/Aula 19 - Dicionários.md",
+    "Imagens/Pasted image 20260604124731.png",
+    "TesteAula/Aula19.py",
+    "Imagens/Pasted image 20260604115952.png",
+    "Aulas/Aula 17 – Listas (Parte 1).md",
     "Imagens/Pasted image 20260525232149.png",
     "Imagens/Pasted image 20260525232130.png",
     "Imagens/Pasted image 20260525231814.png",
-    "Imagens/Pasted image 20260525231504.png",
-    "Imagens/Pasted image 20260525231256.png",
-    "Imagens/Pasted image 20260525230957.png",
-    "Imagens/Pasted image 20260525230731.png",
-    "Aulas/Aula 17 – Listas (Parte 1).md",
-    "Aulas/Aula 18 - Lista (Parte 2).md",
     "TesteAula/Aula18.py",
-    "Imagens/Pasted image 20260525224648.png",
-    "Imagens/Pasted image 20260525224559.png",
     "ExerciciosAula/Aula17/Aula17ex006.py",
     "ExerciciosAula/Aula17/Aula17ex005.py",
     "ExerciciosAula/Aula17/Aula17ex004.py",
@@ -195,9 +199,6 @@
     "Aulas/Aula 11 - Cores no Terminal.md",
     "Aulas/Aula 8 - Utilizando Módulos.md",
     "Aulas/Aula 7 - Operadores Aritméticos.md",
-    "ExerciciosAula/Aula16/Aula16ex003.py",
-    "Imagens/Pasted image 20240822165219.png",
-    "Imagens/Pasted image 20240822165027.png",
     "Aulas/Aula 15 – Interrompendo repetições while.md",
     "Aulas/Aula 14 - Repetições em Python (while).md",
     "Aulas/Aula 13 - Estrutura de repetição (for).md",
