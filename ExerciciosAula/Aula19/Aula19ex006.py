@@ -13,7 +13,7 @@ while True:
     gols = []
 
     for c in range(0, partidas):
-        gols.append(int(input(f'Quantos gols na partida {c}? ')))
+        gols.append(int(input(f'Quantos gols na partida {c + 1 }? ')))
 
     jogador['gols'] = gols
 

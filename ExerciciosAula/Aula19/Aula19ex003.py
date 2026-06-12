@@ -19,10 +19,10 @@ print('-='*30)
 for k, v in dados.items():
     print(f' - {k} tem o valor {v}.')
 
-print(f'Nome: {dados["nome"]}')
-print(f'Idade: {dados["idade"]} anos')
-if dados['ctps'] != 0:
-    print(f'Carteira de trabalho: {dados["ctps"]}')
-    print(f'Ano de contratação: {dados["contratacao"]}')
-    print(f'Salário: R${dados["salario"]:.2f}')
-    print(f'Idade para aposentadoria: {dados["aposentadoria"]} anos')
+# print(f'Nome: {dados["nome"]}')
+# print(f'Idade: {dados["idade"]} anos')
+# if dados['ctps'] != 0:
+#     print(f'Carteira de trabalho: {dados["ctps"]}')
+#     print(f'Ano de contratação: {dados["contratacao"]}')
+#     print(f'Salário: R${dados["salario"]:.2f}')
+#     print(f'Idade para aposentadoria: {dados["aposentadoria"]} anos')

@@ -15,6 +15,10 @@ jogador['total'] = sum(gols)
 
 print('-=' * 30)
 print(jogador)
+print('-=' * 30)
+for chave, valor in jogador.items():
+    print(f'O campo {chave} tem o valor {valor}.')
+print('-=' * 30)
 print(f'O jogador {jogador["nome"]} jogou {partidas} partidas.')
 for i, v in enumerate(jogador['gols']):
     print(f'   => Na partida {i}, fez {v} gols.')
